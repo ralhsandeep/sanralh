@@ -1,4 +1,3 @@
-a
-b
-c
-d
+My name is sandeep
+I love montreal
+i am student
